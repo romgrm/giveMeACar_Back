@@ -1,0 +1,1 @@
+INSERT INTO agence VALUES(1, 'Agence Nantes', 'Nantes', 1, 0, 1);
